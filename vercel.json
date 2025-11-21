@@ -2,11 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/restaurant-website/responsive-food-and-restaurant-website-using-bootstrap-5-master (1)/$1"
+      "destination": "/restaurant-website/responsive-food-and-restaurant-website-using-bootstrap-5-master/$1"
     }
   ]
 }
-
-
-
-
